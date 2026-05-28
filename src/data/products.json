@@ -1,0 +1,1702 @@
+[
+  {
+    "sku": "LPASE-10001",
+    "descripcion": "TECLADO DE DIAGNOSTICO OTIS URM AK3",
+    "partNumberFabricante": "GAA21750AK3",
+    "codigoGlobe": "GMA01ASE000458",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10001.jpeg"
+  },
+  {
+    "sku": "LPASE-10002",
+    "descripcion": "CONSOLA DE DIAGNOSTICO STEP AS380",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000530",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Step",
+    "imagen": "/images/LPASE-10002.jpeg"
+  },
+  {
+    "sku": "LPASE-10003",
+    "descripcion": "HERRAMIENTA DE DIAGNOSTICO DECODIFICADOR KONE",
+    "partNumberFabricante": "KM878240G01",
+    "codigoGlobe": "GMA01ASE000461",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10003.jpeg"
+  },
+  {
+    "sku": "LPASE-10004",
+    "descripcion": "VARIADOR DE FRECUENCIA YASKAWA L1000A 11KW",
+    "partNumberFabricante": "CIMR-LC4A0024BAA",
+    "codigoGlobe": "GMA01ASE000462",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Yaskawa",
+    "imagen": "/images/LPASE-10004.jpeg"
+  },
+  {
+    "sku": "LPASE-10005",
+    "descripcion": "VARIADOR DE FRECUENCIA MONARCH NICE3000+ 11,5KW",
+    "partNumberFabricante": "NICE-L-C-4011",
+    "codigoGlobe": "GMA01ASE000531",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Monarch",
+    "imagen": "/images/LPASE-10005.jpeg"
+  },
+  {
+    "sku": "LPASE-10006",
+    "descripcion": "TARJETA DE COMUNICACIÓN REMOTA OTIS RS14",
+    "partNumberFabricante": "GDA25005B1 DAA26800AL1",
+    "codigoGlobe": "GMA01ASE000532",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10006.jpeg"
+  },
+  {
+    "sku": "LPASE-10007",
+    "descripcion": "TARJETA DE FRENO ORONA ARCA II PAF 5124375",
+    "partNumberFabricante": "5124375",
+    "codigoGlobe": "GMA01ASE000533",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Orona",
+    "imagen": "/images/LPASE-10007.jpeg"
+  },
+  {
+    "sku": "LPASE-10008N",
+    "descripcion": "SENSOR DE NIVELACIÓN BIESTABLE KONE 77N\r\nSENSOR DE NIVELACIÓN BIESTABLE KONE 77U\r\nSENSOR DE NIVELACIÓN BIESTABLE KONE 77S",
+    "partNumberFabricante": "KM713227G01 (KIT)",
+    "codigoGlobe": "GMA01ASE000438",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10008N.jpeg"
+  },
+  {
+    "sku": "LPASE-10008U",
+    "descripcion": "SENSOR DE NIVELACIÓN BIESTABLE KONE 77N\r\nSENSOR DE NIVELACIÓN BIESTABLE KONE 77U\r\nSENSOR DE NIVELACIÓN BIESTABLE KONE 77S",
+    "partNumberFabricante": "KM713227G01 (KIT)",
+    "codigoGlobe": "GMA01ASE000438",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10008U.jpeg"
+  },
+  {
+    "sku": "LPASE-10008S",
+    "descripcion": "SENSOR DE NIVELACIÓN BIESTABLE KONE 77N\r\nSENSOR DE NIVELACIÓN BIESTABLE KONE 77U\r\nSENSOR DE NIVELACIÓN BIESTABLE KONE 77S",
+    "partNumberFabricante": "KM713227G01 (KIT)",
+    "codigoGlobe": "GMA01ASE000438",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10008S.jpeg"
+  },
+  {
+    "sku": "LPASE-10009U",
+    "descripcion": "SENSOR DE NIVELACIÓN MONOESTABLE KONE 61U\r\nSENSOR DE NIVELACIÓN MONOESTABLE KONE 61N\r\nSENSOR DE NIVELACIÓN MONOESTABLE KONE 30B",
+    "partNumberFabricante": "KM740336G03 (KIT)",
+    "codigoGlobe": "GMA01ASE000437",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10009U.jpeg"
+  },
+  {
+    "sku": "LPASE-10009N",
+    "descripcion": "SENSOR DE NIVELACIÓN MONOESTABLE KONE 61U\r\nSENSOR DE NIVELACIÓN MONOESTABLE KONE 61N\r\nSENSOR DE NIVELACIÓN MONOESTABLE KONE 30B",
+    "partNumberFabricante": "KM740336G03 (KIT)",
+    "codigoGlobe": "GMA01ASE000437",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10009N.jpeg"
+  },
+  {
+    "sku": "LPASE-10009B",
+    "descripcion": "SENSOR DE NIVELACIÓN MONOESTABLE KONE 61U\r\nSENSOR DE NIVELACIÓN MONOESTABLE KONE 61N\r\nSENSOR DE NIVELACIÓN MONOESTABLE KONE 30B",
+    "partNumberFabricante": "KM740336G03 (KIT)",
+    "codigoGlobe": "GMA01ASE000437",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10009B.jpeg"
+  },
+  {
+    "sku": "LPASE-10152",
+    "descripcion": "SENSOR DE PUERTA BIESTABLE MKG131-03",
+    "partNumberFabricante": "MKG131-03",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10152.jpeg"
+  },
+  {
+    "sku": "LPASE-10011",
+    "descripcion": "SENSOR DE NIVELACION MAGNETICO OTIS SIGMA MPS-1600",
+    "partNumberFabricante": "MPS-1600-OTIS",
+    "codigoGlobe": "GMA01ASE000535",
+    "subNombres": "SENSOR TIPO HERRADURA",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10011.jpeg"
+  },
+  {
+    "sku": "LPASE-10012",
+    "descripcion": "SENSOR DE NIVELACIÓN 12-60VDC 200MA CEDES GLS126NT2",
+    "partNumberFabricante": "GLS-126-NT2",
+    "codigoGlobe": "",
+    "subNombres": "FOTORRUPTOR DE NIVELACION",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10012.jpeg"
+  },
+  {
+    "sku": "LPASE-10013",
+    "descripcion": "FINAL DE CARRERA OTIS QM-S3-1370",
+    "partNumberFabricante": "XAA177BW1",
+    "codigoGlobe": "",
+    "subNombres": "LIMITE DE CARRERA\r\nSWITCH FINAL DE CARRERA\r\nMICRO SWITCH",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10013.jpeg"
+  },
+  {
+    "sku": "LPASE-10014",
+    "descripcion": "FINAL DE CARRERA Z-15GQ-B 15A NA/NC 500V IP00 (COPIA)",
+    "partNumberFabricante": "Z-15GQ-B",
+    "codigoGlobe": "GMA01ASE000090",
+    "subNombres": "LIMITE DE CARRERA\r\nSWITCH FINAL DE CARRERA\r\nMICRO SWITCH",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10014.jpeg"
+  },
+  {
+    "sku": "LPASE-10015NC",
+    "descripcion": "FINAL DE CARRERA MITSUBISHI S3-1370 NC\r\nFINAL DE CARRERA MITSUBISHI S3-1371 NO",
+    "partNumberFabricante": "S3-1370 NC\r\nS3-1371 NO",
+    "codigoGlobe": "GMA01ASE000006\r\nGMA01ASE000007",
+    "subNombres": "LIMITE DE CARRERA\r\nSWITCH FINAL DE CARRERA\r\nMICRO SWITCH",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASE-10015NC.jpeg"
+  },
+  {
+    "sku": "LPASE-10015NO",
+    "descripcion": "FINAL DE CARRERA MITSUBISHI S3-1370 NC\r\nFINAL DE CARRERA MITSUBISHI S3-1371 NO",
+    "partNumberFabricante": "S3-1370 NC\r\nS3-1371 NO",
+    "codigoGlobe": "GMA01ASE000006\r\nGMA01ASE000007",
+    "subNombres": "LIMITE DE CARRERA\r\nSWITCH FINAL DE CARRERA\r\nMICRO SWITCH",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASE-10015NO.jpeg"
+  },
+  {
+    "sku": "LPASE-10016",
+    "descripcion": "SWITCH DE LIMITADOR DE VELOCIDAD UKT SCHINDLER\r\nSWITCH DE LIMITADOR DE VELOCIDAD UKS C/RETENCION",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000172\r\nGMA01ASE000257",
+    "subNombres": "GMA01ASE000172\r\nGMA01ASE000257",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASE-10016.jpeg"
+  },
+  {
+    "sku": "LPASE-10017",
+    "descripcion": "SWITCH DE LIMITADOR DE VELOCIDAD UKT SCHINDLER\r\nSWITCH DE LIMITADOR DE VELOCIDAD UKS C/RETENCION",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000172\r\nGMA01ASE000257",
+    "subNombres": "GMA01ASE000172\r\nGMA01ASE000257",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASE-10017.jpeg"
+  },
+  {
+    "sku": "LPASE-10018",
+    "descripcion": "VARIADOR DE FRECUENCIA FERMATOR VF5+",
+    "partNumberFabricante": "VCI-V05P00100FLEP",
+    "codigoGlobe": "GMA01ASE000153",
+    "subNombres": "VF5+",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10018.jpeg"
+  },
+  {
+    "sku": "LPASE-10019",
+    "descripcion": "VARIADOR DE FRECUENCIA FERMATOR VF5+ (COPIA)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10019.jpeg"
+  },
+  {
+    "sku": "LPASE-10020",
+    "descripcion": "VARIADOR DE PUERTA THYSSEN ESHINE YS-K01",
+    "partNumberFabricante": "YS-K01",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/LPASE-10020.png"
+  },
+  {
+    "sku": "LPASE-10021",
+    "descripcion": "VARIADOR DE FRECUENCIA OPERADOR DE PUERTA THYSSEN K200",
+    "partNumberFabricante": "BG101-S20P2S/S20P4A",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/LPASE-10021.jpeg"
+  },
+  {
+    "sku": "LPASE-10022",
+    "descripcion": "MOTOR OPERADOR DE PUERTA FERMATOR YVP90-6S (THYSSEN K200)",
+    "partNumberFabricante": "YVP90-6S",
+    "codigoGlobe": "",
+    "subNombres": "ENCODER",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10022.png"
+  },
+  {
+    "sku": "LPASM-10023R",
+    "descripcion": "MOTOR OPERADOR DE PUERTA OTIS AT120 DERECHO\r\nMOTOR OPERADOR DE PUERTA OTIS AT120 IZQUIERDO",
+    "partNumberFabricante": "FAA24350BL1\r\nFAA24350BL2",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/placeholder.svg"
+  },
+  {
+    "sku": "LPASM-10023L",
+    "descripcion": "MOTOR OPERADOR DE PUERTA OTIS AT120 DERECHO\r\nMOTOR OPERADOR DE PUERTA OTIS AT120 IZQUIERDO",
+    "partNumberFabricante": "FAA24350BL1\r\nFAA24350BL2",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/placeholder.svg"
+  },
+  {
+    "sku": "LPASM-10024R",
+    "descripcion": "ESPADA DE PUERTA THYSSEN FERMATOR DERECHO (100mmX470mm)\r\nESPADA DE PUERTA THYSSEN FERMATOR IZQUIERDO (100mmX470mm)",
+    "partNumberFabricante": "CSK-VF00CD000 (CONJUNTO)",
+    "codigoGlobe": "",
+    "subNombres": "CUCHILLA DE PUERTA\r\nPALETA DE PUERTA\r\nHORQUILLA DE PUERTA\r\nESPADIN DE PUERTA\r\nLEVA DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10024R.jpeg"
+  },
+  {
+    "sku": "LPASM-10024L",
+    "descripcion": "ESPADA DE PUERTA THYSSEN FERMATOR DERECHO (100mmX470mm)\r\nESPADA DE PUERTA THYSSEN FERMATOR IZQUIERDO (100mmX470mm)",
+    "partNumberFabricante": "CSK-VF00CD000 (CONJUNTO)",
+    "codigoGlobe": "",
+    "subNombres": "CUCHILLA DE PUERTA\r\nPALETA DE PUERTA\r\nHORQUILLA DE PUERTA\r\nESPADIN DE PUERTA\r\nLEVA DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10024L.jpeg"
+  },
+  {
+    "sku": "LPASM-10025R",
+    "descripcion": "ESPADA DE PUERTA FERMATOR 3300AP DERECHO\r\nESPADA DE PUERTA FERMATOR 3300AP IZQUIERDO",
+    "partNumberFabricante": "AP3300 (CONJUNTO)",
+    "codigoGlobe": "",
+    "subNombres": "CUCHILLA DE PUERTA\r\nPALETA DE PUERTA\r\nHORQUILLA DE PUERTA\r\nESPADIN DE PUERTA\r\nLEVA DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10025R.jpeg"
+  },
+  {
+    "sku": "LPASM-10025L",
+    "descripcion": "ESPADA DE PUERTA FERMATOR 3300AP DERECHO\r\nESPADA DE PUERTA FERMATOR 3300AP IZQUIERDO",
+    "partNumberFabricante": "AP3300 (CONJUNTO)",
+    "codigoGlobe": "",
+    "subNombres": "CUCHILLA DE PUERTA\r\nPALETA DE PUERTA\r\nHORQUILLA DE PUERTA\r\nESPADIN DE PUERTA\r\nLEVA DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10025L.jpeg"
+  },
+  {
+    "sku": "LPASM-10026R",
+    "descripcion": "ESPADA DE PUERTA SCHINDLER QKS9 DERECHO\r\nESPADA DE PUERTA SCHINDLER QKS9 IZQUIERDO",
+    "partNumberFabricante": "ID.250710\r\nID.250711",
+    "codigoGlobe": "",
+    "subNombres": "CUCHILLA DE PUERTA\r\nPALETA DE PUERTA\r\nHORQUILLA DE PUERTA\r\nESPADIN DE PUERTA\r\nLEVA DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASM-10026R.jpeg"
+  },
+  {
+    "sku": "LPASM-10026L",
+    "descripcion": "ESPADA DE PUERTA SCHINDLER QKS9 DERECHO\r\nESPADA DE PUERTA SCHINDLER QKS9 IZQUIERDO",
+    "partNumberFabricante": "ID.250710\r\nID.250711",
+    "codigoGlobe": "",
+    "subNombres": "CUCHILLA DE PUERTA\r\nPALETA DE PUERTA\r\nHORQUILLA DE PUERTA\r\nESPADIN DE PUERTA\r\nLEVA DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASM-10026L.jpeg"
+  },
+  {
+    "sku": "LPASM-10027",
+    "descripcion": "GUIA DE PUERTA MITSUBISHI 60X40MM",
+    "partNumberFabricante": "66SP464",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASM-10027.png"
+  },
+  {
+    "sku": "LPASM-10028",
+    "descripcion": "GUIA DE PUERTA SCHINDLER 3300 60X48MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASM-10028.png"
+  },
+  {
+    "sku": "LPASM-10029/49X40MM",
+    "descripcion": "CONJUNTO GUIA DE PUERTA FERMATOR THYSSEN 49X40MM\r\nCONJUNTO GUIA DE PUERTA FERMATOR THYSSEN 57X40MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10029_49X40MM.png"
+  },
+  {
+    "sku": "LPASM-10029/57X40MM",
+    "descripcion": "CONJUNTO GUIA DE PUERTA FERMATOR THYSSEN 49X40MM\r\nCONJUNTO GUIA DE PUERTA FERMATOR THYSSEN 57X40MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10029_57X40MM.png"
+  },
+  {
+    "sku": "LPASM-10030/40X50MM",
+    "descripcion": "CONJUNTO GUIA DE PUERTA SELCOM THYSSEN 40X50MM \r\nCONJUNTO GUIA DE PUERTA SELCOM THYSSEN 40X42MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASMSAE011\r\nGMA02ASM000036",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASM-10030_40X50MM.png"
+  },
+  {
+    "sku": "LPASM-10030/40X42MM",
+    "descripcion": "CONJUNTO GUIA DE PUERTA SELCOM THYSSEN 40X50MM \r\nCONJUNTO GUIA DE PUERTA SELCOM THYSSEN 40X42MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASMSAE011\r\nGMA02ASM000036",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASM-10030_40X42MM.png"
+  },
+  {
+    "sku": "LPASM-10031",
+    "descripcion": "GUIA DE PUERTA SP472 OTIS/LG/SIGMA",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000065",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASM-10031.png"
+  },
+  {
+    "sku": "LPASM-10032",
+    "descripcion": "GUIA DE PUERTA DE PISO CANNY 63X44MM  (56X45MM)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Canny",
+    "imagen": "/images/LPASM-10032.jpeg"
+  },
+  {
+    "sku": "LPASE-10033",
+    "descripcion": "CONTACTO DE PUERTA AZ14-1KD COPIA",
+    "partNumberFabricante": "AZ14-1KD",
+    "codigoGlobe": "GMA01ASE000471",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10033.jpeg"
+  },
+  {
+    "sku": "LPASE-10034",
+    "descripcion": "CERRADURA DE BLOQUEO CABINA KONE (CHAPA PREFERENCIAL)",
+    "partNumberFabricante": "KM50075486",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASE-10034.jpeg"
+  },
+  {
+    "sku": "LPASM-10035R",
+    "descripcion": "CERROJO PUERTA DE PISO FERMATOR THYSSEN K200/K300 DERECHO\r\nCERROJO PUERTA DE PISO FERMATOR THYSSEN K200/K300 IZQUIERDO",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10035R.jpeg"
+  },
+  {
+    "sku": "LPASM-10035L",
+    "descripcion": "CERROJO PUERTA DE PISO FERMATOR THYSSEN K200/K300 DERECHO\r\nCERROJO PUERTA DE PISO FERMATOR THYSSEN K200/K300 IZQUIERDO",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10035L.jpeg"
+  },
+  {
+    "sku": "LPASE-10036",
+    "descripcion": "CONTACTO DE PUERTA BERNSTEIN SEL1-A1Z",
+    "partNumberFabricante": "SEL1-A1Z P0\r\n601.6369.038",
+    "codigoGlobe": "GMA01ASE000184",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Universal",
+    "imagen": "/images/LPASE-10036.jpeg"
+  },
+  {
+    "sku": "LPASE-10037",
+    "descripcion": "CONTACTO DE PUERTA SCHINDLER QKS9",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000501",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASE-10037.jpeg"
+  },
+  {
+    "sku": "LPASE-10038",
+    "descripcion": "CONTACTO DE PUERTA LG SIGMA GL03006",
+    "partNumberFabricante": "GL03006",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "LG",
+    "imagen": "/images/LPASE-10038.jpeg"
+  },
+  {
+    "sku": "LPASM-10039",
+    "descripcion": "LLAVE DE EMERGENCIA TIPO TRIANGULO",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000022",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10039.jpeg"
+  },
+  {
+    "sku": "LPASM-10040",
+    "descripcion": "GUIA DE CONTRAPESO SCHINDLER 3300/3600 65X10MM\r\nGUIA DE CONTRAPESO SCHINDLER 3300/3600 65X16MM\r\nGUIA DE CONTRAPESO SCHINDLER 3300/3600 65X30MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000078",
+    "subNombres": "GUIADOR\r\nZAPATA",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/placeholder.svg"
+  },
+  {
+    "sku": "LPASE-10041",
+    "descripcion": "CONTACTOR 3P 32A AC-3 110V AC 50/60Hz",
+    "partNumberFabricante": "LC1D32F7",
+    "codigoGlobe": "GMA01ASE000170",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10041.jpeg"
+  },
+  {
+    "sku": "LPASE-10042",
+    "descripcion": "BLOCK AUXILIAR FRONTAL 2NA+2NC SCHNEIDER",
+    "partNumberFabricante": "LADN22",
+    "codigoGlobe": "GMA01ASE000023",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10042.png"
+  },
+  {
+    "sku": "LPASE-10043",
+    "descripcion": "BARRERA INFRARROJA WECO 1800MM",
+    "partNumberFabricante": "WECO-917A61-AC220",
+    "codigoGlobe": "GMA01ASE000225",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Weco",
+    "imagen": "/images/LPASE-10043.jpeg"
+  },
+  {
+    "sku": "LPASE-10044",
+    "descripcion": "BARRERA INFRARROJA WECO 2000MM",
+    "partNumberFabricante": "03.G5.AAM.94",
+    "codigoGlobe": "GMA01ASE000171",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Weco",
+    "imagen": "/images/LPASE-10044.jpeg"
+  },
+  {
+    "sku": "LPASM-10045",
+    "descripcion": "RECOLECTOR DE ACEITE REDONDO",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000035",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Universal",
+    "imagen": "/images/LPASM-10045.png"
+  },
+  {
+    "sku": "LPASM-10046",
+    "descripcion": "SUJETADOR DE CABLES  DE ASCENSOR 24 CONDUCTORES",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10046.jpeg"
+  },
+  {
+    "sku": "LPASE-10047",
+    "descripcion": "CAJA INSPECCIÓN SOBRE CABINA BJ141",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000328",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Universal",
+    "imagen": "/images/LPASE-10047.jpeg"
+  },
+  {
+    "sku": "LPESM-10048",
+    "descripcion": "RUEDA DE PASAMANOS 100X65MM PARA ESCALERAS MECANICAS SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10048.jpeg"
+  },
+  {
+    "sku": "LPESM-10049",
+    "descripcion": "RUEDA DE PASAMANOS 70X50MM PARA ESCALERAS MECANICAS SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10049.jpeg"
+  },
+  {
+    "sku": "LPESM-10050",
+    "descripcion": "POLIN SOPORTE DE PASAMANOS DE ESCALERAS MECANICAS LISO 6204RS 70X50MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "",
+    "imagen": "/images/LPESM-10050.jpeg"
+  },
+  {
+    "sku": "LPESM-10051",
+    "descripcion": "RUEDA DE PASAMANOS 75X35MM 6204RS PARA ESCALERA MECÁNICA SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10051.jpeg"
+  },
+  {
+    "sku": "LPESM-10052",
+    "descripcion": "RUEDA DE PASAMANOS 109X31MM PARA ESCALERA MECÁNICA SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10052.jpeg"
+  },
+  {
+    "sku": "LPESM-10053",
+    "descripcion": "RUEDA PARA CURVA DE PASAMANOS 26X26MM ESCALA MECÁNICA OTIS GO456AY1",
+    "partNumberFabricante": "GO456AY1",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Otis",
+    "imagen": "/images/LPESM-10053.jpeg"
+  },
+  {
+    "sku": "LPESM-10054",
+    "descripcion": "RUEDA DE ARRASTRE DE PELDAÑO 75X23MM*6204",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "",
+    "imagen": "/images/LPESM-10054.jpeg"
+  },
+  {
+    "sku": "LPESM-10055",
+    "descripcion": "RODILLO ESTRIADO DE PASAMANOS PARA CORREA POLY 110X60MM 6305RS",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "",
+    "imagen": "/images/LPESM-10055.jpeg"
+  },
+  {
+    "sku": "LPESM-10056",
+    "descripcion": "RUEDA DE PELDAÑO 70X25MM 6204-2RS",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "",
+    "imagen": "/images/LPESM-10056.jpeg"
+  },
+  {
+    "sku": "LPESM-10057",
+    "descripcion": "RUEDA DE PELDAÑO 76X25MM 6204-2RS",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10057.jpeg"
+  },
+  {
+    "sku": "LPESM-10058",
+    "descripcion": "POLEA DE TRACCIÓN 587X330MM M10 M12 SCHINDLER",
+    "partNumberFabricante": "SCH310676-C",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10058.jpeg"
+  },
+  {
+    "sku": "LPESM-10059",
+    "descripcion": "POLEA DE TRACCIÓN 497X350X30MM SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10059.jpeg"
+  },
+  {
+    "sku": "LPESM-10060",
+    "descripcion": "POLEA DE TRACCIÓN 455X360X32MM SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10060.jpeg"
+  },
+  {
+    "sku": "LPESM-10061",
+    "descripcion": "RUEDA DE ACCIONAMIENTO DE PASAMANOS 690X30MM PARA ESCALAS MECANICAS",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "",
+    "imagen": "/images/LPESM-10061.jpeg"
+  },
+  {
+    "sku": "LPESM-10062",
+    "descripcion": "CADENA DE PRESION DE PASAMANOS 8 RODILLOS 75X60 FUJITEC",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Fujitec",
+    "imagen": "/images/LPESM-10062.jpeg"
+  },
+  {
+    "sku": "LPESM-10063",
+    "descripcion": "PLACA PEINE 22 DIENTES202X108X145MM (SMR313609) SCHINDLER",
+    "partNumberFabricante": "SMR313609",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10063.jpeg"
+  },
+  {
+    "sku": "LPESM-10064",
+    "descripcion": "PLACA PEINE LISO 24 DIENTES 205X116X68MM THYSSEN AVANTE",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/LPESM-10064.jpeg"
+  },
+  {
+    "sku": "LPESM-10065",
+    "descripcion": "CONJUNTO BORDE DE SEGURIDAD ESCALA MECANICA THYSSEN 283X21/409X25/326X31",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/LPESM-10065.jpeg"
+  },
+  {
+    "sku": "LPESM-10066L",
+    "descripcion": "GOMA ENTRADA DE PASAMANOS OTIS XIZI IZQUIERDA\r\nGOMA ENTRADA DE PASAMANOS OTIS XIZI DERECHA",
+    "partNumberFabricante": "GAA384JZ1 / XAA384KP1",
+    "codigoGlobe": "",
+    "subNombres": "CUBIERTA ENTRADA DE PASAMANOS",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Otis",
+    "imagen": "/images/LPESM-10066L.jpeg"
+  },
+  {
+    "sku": "LPESM-10066R",
+    "descripcion": "GOMA ENTRADA DE PASAMANOS OTIS XIZI IZQUIERDA\r\nGOMA ENTRADA DE PASAMANOS OTIS XIZI DERECHA",
+    "partNumberFabricante": "GAA384JZ1 / XAA384KP1",
+    "codigoGlobe": "",
+    "subNombres": "CUBIERTA ENTRADA DE PASAMANOS",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Otis",
+    "imagen": "/images/LPESM-10066R.jpeg"
+  },
+  {
+    "sku": "LPESM-10067L",
+    "descripcion": "ENTRADA DE PASAMANOS OTIS XIZI IZQUIERDA\r\nENTRADA DE PASAMANOS OTIS XIZI DERECHA",
+    "partNumberFabricante": "GAB438BNX2\r\nGAB438BNX1",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Otis",
+    "imagen": "/images/LPESM-10067L.jpeg"
+  },
+  {
+    "sku": "LPESM-10067R",
+    "descripcion": "ENTRADA DE PASAMANOS OTIS XIZI IZQUIERDA\r\nENTRADA DE PASAMANOS OTIS XIZI DERECHA",
+    "partNumberFabricante": "GAB438BNX2\r\nGAB438BNX1",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Otis",
+    "imagen": "/images/LPESM-10067R.jpeg"
+  },
+  {
+    "sku": "LPESM-10068ID/SI",
+    "descripcion": "ENTRADA DE PASAMANOS THYSSEN FT 822 INFERIOR DERECHA/SUPERIOR IZQUIERDA\r\nENTRADA DE PASAMANOS THYSSEN FT 822 SUPERIOR DERECHA/INFERIOR IZQUIERDA",
+    "partNumberFabricante": "PN8001640000 LEFT\r\nPN8001630000 RIGHT",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/LPESM-10068ID_SI.jpeg"
+  },
+  {
+    "sku": "LPESM-10068SD/II",
+    "descripcion": "ENTRADA DE PASAMANOS THYSSEN FT 822 INFERIOR DERECHA/SUPERIOR IZQUIERDA\r\nENTRADA DE PASAMANOS THYSSEN FT 822 SUPERIOR DERECHA/INFERIOR IZQUIERDA",
+    "partNumberFabricante": "PN8001640000 LEFT\r\nPN8001630000 RIGHT",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/placeholder.svg"
+  },
+  {
+    "sku": "LPESM-10069",
+    "descripcion": "ENTRADA DE PASAMANOS SCHINDLER 9300 TAPA INTERIOR 405797",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10069.jpeg"
+  },
+  {
+    "sku": "LPESM-10070",
+    "descripcion": "GOMA ENTRADA DE PASAMANOS SCHINDLER 9300",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESM-10070.jpeg"
+  },
+  {
+    "sku": "LPASE-10071",
+    "descripcion": "PULSADOR MTD303",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10071.jpeg"
+  },
+  {
+    "sku": "LPESE-10072",
+    "descripcion": "FRENO DE ESCALA MECANICA SCHINDLER 9300",
+    "partNumberFabricante": "897200",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schindler",
+    "imagen": "/images/LPESE-10072.jpeg"
+  },
+  {
+    "sku": "LPASM-10073",
+    "descripcion": "RUEDA DE SUSPENSIÓN SELCOM Ø56MM KONE",
+    "partNumberFabricante": "3201.05.0032/C",
+    "codigoGlobe": "GMA02ASM000042",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASM-10073.png"
+  },
+  {
+    "sku": "LPASM-10074",
+    "descripcion": "RUEDA DE SUSPENSIÓN EXCENTRICA SELCOM Ø43MM KONE",
+    "partNumberFabricante": "3201.05.0058/C",
+    "codigoGlobe": "GMA02ASM000089",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASM-10074.png"
+  },
+  {
+    "sku": "LPASM-10075",
+    "descripcion": "RUEDA DE PUERTA SELCOM Ø64MM",
+    "partNumberFabricante": "3201.05.0010/C",
+    "codigoGlobe": "GMA02ASM000084",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASM-10075.png"
+  },
+  {
+    "sku": "LPASM-10076",
+    "descripcion": "RUEDA CERROJO DE PUERTA SELCOM Ø40MM",
+    "partNumberFabricante": "3201.05.0013/C",
+    "codigoGlobe": "GMA02ASM000085",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASM-10076.png"
+  },
+  {
+    "sku": "LPASM-10077",
+    "descripcion": "RUEDA DE PUERTA WITTUR Ø45 16X6000MM",
+    "partNumberFabricante": "KM2L1M050038",
+    "codigoGlobe": "GMA02ASM000086",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Wittur",
+    "imagen": "/images/LPASM-10077.png"
+  },
+  {
+    "sku": "LPASM-10078",
+    "descripcion": "RUEDA DE PUERTA WITTUR Ø45 26X6000MM",
+    "partNumberFabricante": "CN0454",
+    "codigoGlobe": "GMA02ASM000025",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Wittur",
+    "imagen": "/images/LPASM-10078.png"
+  },
+  {
+    "sku": "LPASM-10079",
+    "descripcion": "RUEDA DE SUSPENSIÓN DE PUERTA KONE Ø50 14X6201MM",
+    "partNumberFabricante": "KM89628G02",
+    "codigoGlobe": "GMA02ASM000087",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASM-10079.png"
+  },
+  {
+    "sku": "LPASM-10080",
+    "descripcion": "RUEDA DE SUSPENSIÓN DE PUERTA KONE Ø44 12X6200MM",
+    "partNumberFabricante": "KM89629G02",
+    "codigoGlobe": "GMA02ASM000088",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Kone",
+    "imagen": "/images/LPASM-10080.png"
+  },
+  {
+    "sku": "LPASM-10081",
+    "descripcion": "RUEDA DE SUSPENSIÓN FERMATOR CONCENTRICA Ø48MM",
+    "partNumberFabricante": "PFR.010000000",
+    "codigoGlobe": "GMA02ASM000047",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10081.jpeg"
+  },
+  {
+    "sku": "LPASM-10082",
+    "descripcion": "RUEDA DE SUSPENSIÓN FERMATOR EXCENTRICA Ø48MM",
+    "partNumberFabricante": "PFR.020000000",
+    "codigoGlobe": "GMA02ASM000079",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10082.png"
+  },
+  {
+    "sku": "LPASM-10083",
+    "descripcion": "RUEDA EXCENTRICA Ø33MM FERMATOR",
+    "partNumberFabricante": "PFR.040000000",
+    "codigoGlobe": "GMA02ASM000048",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10083.png"
+  },
+  {
+    "sku": "LPASM-10084",
+    "descripcion": "RUEDA DE SUSPENSIÓN PARA PIOLA FERMATOR Ø64MM",
+    "partNumberFabricante": "PFR.080000000",
+    "codigoGlobe": "GMA02ASM000073",
+    "subNombres": "ROLDANA\r\nPATIN\r\nROLLER\r\nRODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10084.png"
+  },
+  {
+    "sku": "LPASE-10085",
+    "descripcion": "TARJETA DE CONTROL DE MANDO MONARCH MCTC-CCB-A",
+    "partNumberFabricante": "MCTC-CCB-A",
+    "codigoGlobe": "GMA01ASE000472",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Monarch",
+    "imagen": "/images/LPASE-10085.png"
+  },
+  {
+    "sku": "LPASE-10086",
+    "descripcion": "TARJETA DE COMUNICACIÓN LG SIGMA DHG161",
+    "partNumberFabricante": "AEG02C376B",
+    "codigoGlobe": "GMA01ASE000479",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "LG",
+    "imagen": "/images/LPASE-10086.png"
+  },
+  {
+    "sku": "LPASE-10087",
+    "descripcion": "OPERADOR DE PUERTA OTIS ZIXI DO3000",
+    "partNumberFabricante": "XAA24360AR1",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10087.png"
+  },
+  {
+    "sku": "LPASM-10088",
+    "descripcion": "POLIN SUSPENSIÓN DE PUERTA CURVO SCHINDLER QKS9",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASMSAE013",
+    "subNombres": "CATALINA RUEDA SUSPESION DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASM-10088.png"
+  },
+  {
+    "sku": "LPASM-10089",
+    "descripcion": "GUIA DE PUERTA SELCOM  40X50MM (REPUESTO)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASM-10089.png"
+  },
+  {
+    "sku": "LPASM-10090",
+    "descripcion": "GUIA DE PUERTA FERMATOR 40X14MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10090.png"
+  },
+  {
+    "sku": "LPASM-10091",
+    "descripcion": "CONJUNTO GUIA DE PUERTA SELCOM M8 (EJE CORTO) THYSSEN",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "PATIN DE PUERTA\r\nESPIGA DE PUERTA\r\nCORREDIZA DE PUERTA\r\nGUIADOR DE PUERTA\r\nDESLIZADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASM-10091.png"
+  },
+  {
+    "sku": "LPASE-10092",
+    "descripcion": "CONTACTO AUXILIAR CR2-AZ AUXILIAR PUERTAS DE CABINA",
+    "partNumberFabricante": "CR2-AZ",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10092.png"
+  },
+  {
+    "sku": "LPASE-10023",
+    "descripcion": "CONTACTO ENCLAVAMIENTO CR2-AZ PUERTAS DE PISO (ROJO)",
+    "partNumberFabricante": "CR2-AZ",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10023.png"
+  },
+  {
+    "sku": "LPASM-10093",
+    "descripcion": "RUEDA CON RODAMIENTO 47X8MM 609Z FERMATOR",
+    "partNumberFabricante": "609Z",
+    "codigoGlobe": "",
+    "subNombres": "RUEDA PARA ASCENSORES ALTO TRÁFICO TKE",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10093.png"
+  },
+  {
+    "sku": "LPASM-10094",
+    "descripcion": "RUEDA DE PUERTA EJE CENTRICO M12 56X18X6003MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10094.png"
+  },
+  {
+    "sku": "LPASM-10095",
+    "descripcion": "RUEDA DE PUERTA EXCENTRICA M12 54X18X6003MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "CATALINA",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10095.png"
+  },
+  {
+    "sku": "LPASM-10096",
+    "descripcion": "RUEDA PARA CERRADURA DE PUERTA 33X15MM FERMATOR",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10096.png"
+  },
+  {
+    "sku": "LPASE-10097",
+    "descripcion": "CONTACTO DE PUERTA AZ-06 BERNSTEIN",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Bernstein",
+    "imagen": "/images/LPASE-10097.png"
+  },
+  {
+    "sku": "LPASE-10146",
+    "descripcion": "INTERRUPTOR DE CONTACTO PARA CERRADURA DE PUERTA CR7-AZ-1",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10146.png"
+  },
+  {
+    "sku": "LPASE-10098",
+    "descripcion": "CONTACTO DE PUERTA AZ-051",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10098.png"
+  },
+  {
+    "sku": "LPASE-10099",
+    "descripcion": "CONTACTO DE PUERTA DE PISO SELCOM KF-9074",
+    "partNumberFabricante": "KF-9074",
+    "codigoGlobe": "GMA01ASE000495",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASE-10099.png"
+  },
+  {
+    "sku": "LPASE-10100",
+    "descripcion": "CONTACTO DE PUERTA DE CABINA SELCOM KF-2V",
+    "partNumberFabricante": "KF-2V",
+    "codigoGlobe": "GMA01ASE000494",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Selcom",
+    "imagen": "/images/LPASE-10100.png"
+  },
+  {
+    "sku": "LPASE-10101",
+    "descripcion": "CONTACTO DE PUERTA FERMATOR 60MM KCE.6040 (ORIGINAL)",
+    "partNumberFabricante": "KCE-6040",
+    "codigoGlobe": "GMA01ASE000496",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10101.png"
+  },
+  {
+    "sku": "LPASE-10102",
+    "descripcion": "CONTACTO DE PUERTA FERMATOR 40MM KCE.4000 (ORIGINAL)",
+    "partNumberFabricante": "KCE-4000",
+    "codigoGlobe": "GMA01ASE000497",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10102.png"
+  },
+  {
+    "sku": "LPASE-10103",
+    "descripcion": "CONTACTO DE PUERTA FERMATOR 60MM KCE.6040 (COPIA)",
+    "partNumberFabricante": "KCE-6040",
+    "codigoGlobe": "GMA01ASE000498",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10103.png"
+  },
+  {
+    "sku": "LPASE-10104",
+    "descripcion": "CONTACTO DE ENCLAVAMIENTO DE PUERTA FERMATOR 50MM KCE.5000 (ORIGINAL)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000499",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10104.png"
+  },
+  {
+    "sku": "LPASE-10105",
+    "descripcion": "CONTACTO DE ENCLAVAMIENTO DE PUERTA FERMATOR 50MM KCE.5000 (COPIA)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000500",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10105.png"
+  },
+  {
+    "sku": "LPASE-10106",
+    "descripcion": "CONTACTO DE PUERTA AZ-06",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000039",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10106.png"
+  },
+  {
+    "sku": "LPASE-10107",
+    "descripcion": "CONTACTO DE PUERTA AZ-061 SCHMERSAL",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000492",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Schmersal",
+    "imagen": "/images/LPASE-10107.png"
+  },
+  {
+    "sku": "LPASM-10108",
+    "descripcion": "CORREA DENTADA TIPO V OPERADOR DE PUERTA FERMATOR 10MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10108.png"
+  },
+  {
+    "sku": "LPASM-10109",
+    "descripcion": "PIÑON TIPO D POLEA DENTADA FERMATOR",
+    "partNumberFabricante": "PPM.VF00C0000",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10109.png"
+  },
+  {
+    "sku": "LPASM-10110",
+    "descripcion": "PIÑON MOTOR OPERADOR VF4 FERMATOR",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10110.png"
+  },
+  {
+    "sku": "LPASM-10111",
+    "descripcion": "PIÑON OPERADOR DE PUERTA FERMATOR THYSSEN K200",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10111.png"
+  },
+  {
+    "sku": "LPASE-10112",
+    "descripcion": "PLACA MOTOR OPERADOR DE PUERTA FERMATOR THYSSEN K200",
+    "partNumberFabricante": "A3J46589",
+    "codigoGlobe": "GMA01ASE000493",
+    "subNombres": "PLACA ENCODER MOTOR OPERADOR DE PUERTA",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASE-10112.png"
+  },
+  {
+    "sku": "LPASM-10113",
+    "descripcion": "PIÑON DE CORREA PUERTA ASCENSOR K300 37X23MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10113.png"
+  },
+  {
+    "sku": "LPASM-10114",
+    "descripcion": "PIÑON MOTOR OPERADOR DE PUERTA FERMATOR EAGLE T2 (CORREA DENTADA TIPO V)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000095",
+    "subNombres": "RODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10114.png"
+  },
+  {
+    "sku": "LPASM-10115",
+    "descripcion": "PIÑON MOTOR OPERADOR DE PUERTA FERMATOR YVP90-6S",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000094",
+    "subNombres": "RODILLO",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/placeholder.svg"
+  },
+  {
+    "sku": "LPASM-10116",
+    "descripcion": "CORREA DENTADA OPERADOR DE PUERTA HTD5M 12MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000093",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10116.png"
+  },
+  {
+    "sku": "LPASM-10117",
+    "descripcion": "CLIP CORREA MOTOR DE PUERTA 5MM",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10117.png"
+  },
+  {
+    "sku": "LPASM-10118",
+    "descripcion": "CLIP PARA CORREA EN V FERMATOR VVVF5",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fermator",
+    "imagen": "/images/LPASM-10118.png"
+  },
+  {
+    "sku": "LPASE-10119",
+    "descripcion": "VARIADOR DE FRECUENCIA YASKAWA L1000A 7.5KW",
+    "partNumberFabricante": "CIMR-LB4A0018FAC",
+    "codigoGlobe": "GMA01ASE000470",
+    "subNombres": "INVERSOR",
+    "equipo": "ASCENSOR",
+    "marca": "Yaskawa",
+    "imagen": "/images/LPASE-10119.png"
+  },
+  {
+    "sku": "LPASE-10149",
+    "descripcion": "CONTACTOR 3P 12A AC-3 220V AC 50/60Hz",
+    "partNumberFabricante": "LC1D12M7C",
+    "codigoGlobe": "GMA01ASE000473",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10149.png"
+  },
+  {
+    "sku": "LPASE-10120",
+    "descripcion": "CONTACTOR 3P 25A AC-3 110V AC 50/60Hz",
+    "partNumberFabricante": "LC1D25F7C",
+    "codigoGlobe": "GMA01ASE000319",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10120.png"
+  },
+  {
+    "sku": "LPASE-10121",
+    "descripcion": "RELÉ DE POTENCIA 2P 12A 12VDC SCHNEIDER",
+    "partNumberFabricante": "RXM2AB2JD",
+    "codigoGlobe": "GMA01ASE000491",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10121.png"
+  },
+  {
+    "sku": "LPASE-10122",
+    "descripcion": "RELÉ DE POTENCIA 2P 12A 24VDC SCHNEIDER",
+    "partNumberFabricante": "RXM2AB2BD",
+    "codigoGlobe": "GMA01ASE000490",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10122.png"
+  },
+  {
+    "sku": "LPASE-10123",
+    "descripcion": "BASE RELE RIEL DIN 5A 250V SCHNEIDER RXZE2S11",
+    "partNumberFabricante": "RXZE2S11",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Schneider",
+    "imagen": "/images/LPASE-10123.png"
+  },
+  {
+    "sku": "LPASE-10124",
+    "descripcion": "FUENTE DE PODER SWITCHING 5V 15A 220VAC",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Switching",
+    "imagen": "/images/LPASE-10124.png"
+  },
+  {
+    "sku": "LPASE-10125",
+    "descripcion": "FUENTE DE PODER SWITCHING 15V 23A 220VAC",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000529",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Universal",
+    "imagen": "/images/LPASE-10125.png"
+  },
+  {
+    "sku": "LPASE-10126",
+    "descripcion": "FUENTE DE PODER SWITCHING 12V 10A 220VAC",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Universal",
+    "imagen": "/images/LPASE-10126.png"
+  },
+  {
+    "sku": "LPASE-10127",
+    "descripcion": "FUENTE DE PODER SWITCHING 24V 10A 220VAC",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000541",
+    "subNombres": "",
+    "equipo": "ESCALA MECANICA",
+    "marca": "Universal",
+    "imagen": "/images/LPASE-10127.png"
+  },
+  {
+    "sku": "LPASE-10128",
+    "descripcion": "PULSADOR FUJI A4N13868",
+    "partNumberFabricante": "A4N13868",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Fuji",
+    "imagen": "/images/LPASE-10128.png"
+  },
+  {
+    "sku": "LPASE-10129",
+    "descripcion": "PULSADOR STEP PB31 (ORIGINAL)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Step",
+    "imagen": "/images/LPASE-10129.png"
+  },
+  {
+    "sku": "LPASE-10130",
+    "descripcion": "PULSADOR OTIS BR27",
+    "partNumberFabricante": "BR27",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10130.png"
+  },
+  {
+    "sku": "LPASE-10131",
+    "descripcion": "PULSADOR LG SIGMA MTD142",
+    "partNumberFabricante": "MTD142 (KA142 KA31C KA21C)",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Sigma",
+    "imagen": "/images/LPASE-10131.png"
+  },
+  {
+    "sku": "LPASE-10132",
+    "descripcion": "PULSADOR LG SIGMA MTD265 BRAILLE",
+    "partNumberFabricante": "MTD265",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Sigma",
+    "imagen": "/images/LPASE-10132.png"
+  },
+  {
+    "sku": "LPASE-10133",
+    "descripcion": "CHAPA DE CABINA TIPO D SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASE-10133.png"
+  },
+  {
+    "sku": "LPASE-10134",
+    "descripcion": "CAJA DE ALIMENTACIÓN SALA DE MAQUINA 63A 380V",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10134.png"
+  },
+  {
+    "sku": "LPASE-10135",
+    "descripcion": "LUZ DE EMERGENCIA CABINA (SIN BATERIA) SZ-JDH-7-A",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10135.png"
+  },
+  {
+    "sku": "LPASE-10136",
+    "descripcion": "VARIADOR DE PUERTA THYSSEN BG221-BS21C",
+    "partNumberFabricante": "BG221-BS21C",
+    "codigoGlobe": "GMA01ASE000488",
+    "subNombres": "INVERSOR",
+    "equipo": "ASCENSOR",
+    "marca": "ThyssenKrupp",
+    "imagen": "/images/placeholder.svg"
+  },
+  {
+    "sku": "LPASE-10137",
+    "descripcion": "VARIADOR DE PUERTA PANASONIC AADO301",
+    "partNumberFabricante": "AADO301",
+    "codigoGlobe": "GMA01ASE000487",
+    "subNombres": "INVERSOR",
+    "equipo": "ASCENSOR",
+    "marca": "Panasonic",
+    "imagen": "/images/LPASE-10137.png"
+  },
+  {
+    "sku": "LPASE-10138P",
+    "descripcion": "CONTACTO DE PUERTA MITSUBISHI 161 (PALETA) \r\nCONTACTO DE PUERTA MITSUBISHI 161 (SWITCH)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000417\r\nGMA01ASE000418",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASE-10138P.png"
+  },
+  {
+    "sku": "LPASE-10138S",
+    "descripcion": "CONTACTO DE PUERTA MITSUBISHI 161 (PALETA) \r\nCONTACTO DE PUERTA MITSUBISHI 161 (SWITCH)",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000417\r\nGMA01ASE000418",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASE-10138S.png"
+  },
+  {
+    "sku": "LPASE-10139M",
+    "descripcion": "CONTACTO DE PUERTA MOVIL QKS8-9 SCHINDLER\r\nCONTACTO DE PUERTA FIJO QKS8-9 SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000043\r\nGMA01ASE000192",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASE-10139M.png"
+  },
+  {
+    "sku": "LPASE-10139F",
+    "descripcion": "CONTACTO DE PUERTA MOVIL QKS8-9 SCHINDLER\r\nCONTACTO DE PUERTA FIJO QKS8-9 SCHINDLER",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA01ASE000043\r\nGMA01ASE000192",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Schindler",
+    "imagen": "/images/LPASE-10139F.png"
+  },
+  {
+    "sku": "LPASM-10140",
+    "descripcion": "ACOPLE DE ENCODER FLEXIBLE 8X8MM D19-L25",
+    "partNumberFabricante": "",
+    "codigoGlobe": "GMA02ASM000090",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10140.png"
+  },
+  {
+    "sku": "LPASM-10142",
+    "descripcion": "ACOPLAMIENTO ELASTICO 7MM ENCODER D23",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASM-10142.png"
+  },
+  {
+    "sku": "LPASE-10143L",
+    "descripcion": "SWITCH LIMITE DE VELOCIDAD OTIS XIZI IZQUIERDO",
+    "partNumberFabricante": "TAA177AH1",
+    "codigoGlobe": "GMA01ASE000270",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Otis",
+    "imagen": "/images/LPASE-10143L.png"
+  },
+  {
+    "sku": "LPASE-10144",
+    "descripcion": "INTERRUPTOR LIMITADOR DE VELOCIDAD EL 1375-II",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10144.png"
+  },
+  {
+    "sku": "LPASE-10145",
+    "descripcion": "FINAL DE CARRERA LXWS-11G2",
+    "partNumberFabricante": "LXWS-11G2",
+    "codigoGlobe": "GMA01ASE000484",
+    "subNombres": "LIMITE DE CARRERA\r\nSWITCH FINAL DE CARRERA",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10145.png"
+  },
+  {
+    "sku": "LPASE-10010A",
+    "descripcion": "SENSOR DE PUERTA BIESTABLE MITSUBISHI KCB-IIIA\r\nSENSOR DE PUERTA BIESTABLE MITSUBISHI KCB-IIIB",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASE-10010A.png"
+  },
+  {
+    "sku": "LPASE-10010B",
+    "descripcion": "SENSOR DE PUERTA BIESTABLE MITSUBISHI KCB-IIIA\r\nSENSOR DE PUERTA BIESTABLE MITSUBISHI KCB-IIIB",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "Mitsubishi",
+    "imagen": "/images/LPASE-10010B.png"
+  },
+  {
+    "sku": "LPASE-10147",
+    "descripcion": "LUZ DE EMERGENCIA INTERIOR DE CABINA 12V DELIN",
+    "partNumberFabricante": "",
+    "codigoGlobe": "",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10147.png"
+  },
+  {
+    "sku": "LPASE-10148",
+    "descripcion": "BATERIA DE RESPALDO 12VDC 1A INPUT 220VAC 2.2AH RKP220/12D",
+    "partNumberFabricante": "RKP220/12D",
+    "codigoGlobe": "GMA01ASE000457",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10148.png"
+  },
+  {
+    "sku": "LPASE-10150",
+    "descripcion": "DISPLAY DE PISO LCD SM.04VL16XEII STEP",
+    "partNumberFabricante": "SM.04VL16XEII",
+    "codigoGlobe": "GMA01ASE000511",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10150.png"
+  },
+  {
+    "sku": "LPASE-10151",
+    "descripcion": "BATERIA 12V 7AH ULTRACELL",
+    "partNumberFabricante": "UL7-12",
+    "codigoGlobe": "GMA01ASE000015",
+    "subNombres": "",
+    "equipo": "ASCENSOR",
+    "marca": "",
+    "imagen": "/images/LPASE-10151.png"
+  }
+]
