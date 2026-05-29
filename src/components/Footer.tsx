@@ -5,11 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-brand-900">
           {/* Left */}
           <div className="space-y-2">
-            <div className="flex flex-col leading-none mb-3">
-              <span className="text-brand-400 text-xs font-semibold tracking-widest uppercase">Globe</span>
-              <span className="text-white text-xl font-bold tracking-tight">LIFT PARTS</span>
-              <span className="text-gray-500 text-xs">by Grupo Globe</span>
-            </div>
+            <img src="./public/LogoliftParts.svg" alt="LiftParts Logo" className="h-8 mb-1" />
             <p className="text-sm text-gray-400">
               Isidora Goyenechea 3520, Of. 300
             </p>

@@ -22,7 +22,7 @@ const EXCEL_PATH        = resolve(ROOT, 'data', 'LiftParts_Final_MVP__1_.xlsx');
 const OUTPUT_JSON       = resolve(ROOT, 'src', 'data', 'products.json');
 const PUBLIC_IMAGES     = resolve(ROOT, 'public', 'images');
 /** Change this constant if the source images directory moves. */
-const SOURCE_IMAGES_DIR = 'C:\\Users\\NicoleMatus\\Desktop\\imgs-final';
+const SOURCE_IMAGES_DIR = "C:/Users/NicoleMatus/Desktop/imgs-final";
 const SHEET_NAME        = 'Hoja1';
 // ─────────────────────────────────────────────────────────────────────────────
 
