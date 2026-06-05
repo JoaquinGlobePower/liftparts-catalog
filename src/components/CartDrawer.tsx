@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { X, Trash2, Plus, Minus, ShoppingCart } from 'lucide-react';
 import { useCart } from '../context/CartContext';
+import confetti from 'canvas-confetti';
 
 interface CartDrawerProps {
   open: boolean;
@@ -146,7 +147,18 @@ export default function CartDrawer({ open, onClose, onRequestQuote }: CartDrawer
               <span className="font-bold text-gray-900">{totalUnits}</span>
             </div>
             <button
-              onClick={onRequestQuote}
+              onClick={() => {
+                const colors = ['#6f9719', '#a3c43a', '#ffffff', '#f0ffd1', '#3b5e0a', '#facc15', '#86efac'];
+                confetti({ particleCount: 120, angle: 60, spread: 65, origin: { x: 0, y: 0.7 }, colors, scalar: 1.2 });
+                confetti({ particleCount: 120, angle: 120, spread: 65, origin: { x: 1, y: 0.7 }, colors, scalar: 1.2 });
+                setTimeout(() => confetti({ particleCount: 180, spread: 100, origin: { x: 0.5, y: 0.5 }, colors, scalar: 1.3, startVelocity: 40 }), 300);
+                setTimeout(() => {
+                  confetti({ particleCount: 80, angle: 60, spread: 55, origin: { x: 0, y: 0.65 }, colors });
+                  confetti({ particleCount: 80, angle: 120, spread: 55, origin: { x: 1, y: 0.65 }, colors });
+                }, 600);
+                setTimeout(() => confetti({ particleCount: 150, spread: 160, origin: { x: 0.5, y: 0 }, colors, scalar: 0.9, startVelocity: 20, gravity: 0.7 }), 900);
+                onRequestQuote();
+              }}
               className="w-full py-3 bg-brand-600 text-white font-bold rounded-xl hover:bg-brand-700 transition-colors focus:outline-none focus:ring-2 focus:ring-brand-400 focus:ring-offset-2"
             >
               Solicitar cotización

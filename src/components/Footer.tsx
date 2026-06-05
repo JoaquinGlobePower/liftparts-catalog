@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-brand-900">
           {/* Left */}
           <div className="space-y-2">
-            <img src="./public/LogoliftParts.svg" alt="LiftParts Logo" className="h-8 mb-1" />
+            <img src="/LogoLiftParts.svg" alt="LiftParts Logo" className="h-10" />
             <p className="text-sm text-gray-400">
               Isidora Goyenechea 3520, Of. 300
             </p>

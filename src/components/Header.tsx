@@ -12,7 +12,7 @@ export default function Header({ onCartOpen }: HeaderProps) {
     <header className="bg-brand-950 text-white sticky top-0 z-40">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
         {/* Logo */}
-        <img src="./public/LogoliftParts.svg" alt="LiftParts Logo" className="h-8 mb-1" />
+        <img src="/LogoLiftParts.svg" alt="LiftParts Logo" className="h-10" />
 
         {/* Cart button */}
         <button
