@@ -8,6 +8,7 @@ import CartDrawer from './components/CartDrawer';
 import QuoteRequestModal from './components/QuoteRequestModal';
 import Toast from './components/Toast';
 import Footer from './components/Footer';
+import WhatsAppButton from './components/WhatsAppButton';
 import { useFilteredProducts } from './hooks/useFilteredProducts';
 import type { Product, ToastMessage } from './types';
 import productsData from './data/products.json';
@@ -94,6 +95,7 @@ function AppContent() {
       />
 
       <Toast toasts={toasts} onRemove={removeToast} />
+      <WhatsAppButton />
     </div>
   );
 }

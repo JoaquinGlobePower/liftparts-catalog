@@ -50,8 +50,26 @@ export default function QuoteRequestModal({ open, onClose }: QuoteRequestModalPr
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    const payload = { ...form, items };
-    console.log('Solicitud de cotización:', payload);
+
+    const lines = items
+      .map(({ product, quantity }) => `• ${product.sku} - ${product.descripcion} x${quantity}`)
+      .join('\n');
+
+    const partes = [
+      'Hola, me gustaría cotizar los siguientes productos:\n',
+      lines,
+      '',
+      `Nombre: ${form.nombre}`,
+      form.empresa ? `Empresa: ${form.empresa}` : null,
+      `Email: ${form.email}`,
+      form.telefono ? `Teléfono: ${form.telefono}` : null,
+      form.mensaje ? `\n${form.mensaje}` : null,
+    ]
+      .filter(Boolean)
+      .join('\n');
+
+    window.open(`https://wa.me/56933410897?text=${encodeURIComponent(partes)}`, '_blank');
+
     setSubmitted(true);
     dispatch({ type: 'CLEAR' });
   }

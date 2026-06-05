@@ -16,10 +16,10 @@ export default function Footer() {
           <div className="space-y-2 sm:text-right">
             <p className="text-white font-semibold text-sm">Contacto</p>
             <a
-              href="mailto:contacto@grupoglobe.com"
+              href="mailto:ventas@liftparts.cl"
               className="text-brand-400 text-sm hover:text-brand-300 transition-colors"
             >
-              contacto@grupoglobe.com
+              ventas@liftparts.cl
             </a>
           </div>
         </div>
